@@ -36,7 +36,7 @@ Implementaremos el siguiente circuito en el simulador Dcaclab.
 
 ![Paso 4](https://github.com/AlexMP98/Laboratorio-N8/blob/main/Imagenes/Paso%204.png)
 
-5.	Con el multímetro digital mida el voltaje de salida en RL.
+5.	Con el multímetro digital medimos el voltaje de salida en RL.
 
 ![Paso 5](https://github.com/AlexMP98/Laboratorio-N8/blob/main/Imagenes/Paso%205.png)
 
