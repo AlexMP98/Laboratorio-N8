@@ -45,7 +45,31 @@ Implementaremos el siguiente circuito en el simulador Dcaclab.
 
 
 
-**4. RESPUESTAS A INTERROGANTES Y CALCULO DE ERROR**
+**4. RESPUESTAS A INTERROGANTES Y CALCULO DE ERROR**   
+4.1 ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?     
+a     
+
+4.2 ¿En qué valor está posicionada la perilla VOLTS/DIV?     
+E     
+
+4.3 ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?      
+a     
+
+4.4 ¿En qué valor está posicionada la perilla TIME/DIV?     
+E     
+
+4.5 ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?     
+Amplitud de voltaje:     (v)      
+Periodo:       (s)     
+
+4.6 Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.      
+f:    (Hz)     
+w:    (rad/s)     
+
+4.7 Con el multímetro digital mida el voltaje de salida en RL:   
+d   
+
+4.8 Compare el voltaje medido en el punto 4.5 y el obtenido en el punto 4.7. ¿Coinciden? ¿Por qué?
 
 
 
