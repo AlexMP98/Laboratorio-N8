@@ -95,7 +95,9 @@ d
 
 **7. BIBLIOGRAFÍA**
 
+Boylestad, R. 2011. Introducción al Análisis de Circuitos.2da. Edición. Pearson.
 
+Onda senoidal. (2015, 20 junio). EcuRed. https://www.ecured.cu/Onda_senoidal
 
 
 
