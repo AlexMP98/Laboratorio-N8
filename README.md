@@ -6,13 +6,22 @@
 
 _Objetivo General_
 
+-Analizar el comportamiento y las diferentes caracteristicas de las ondas senoidales.
 
 _Objetivos Específicos_
+
+-
+
+-
+
+-
 
 
 **2. MARCO TEÓRICO**
 
+![mt1](https://github.com/AlexMP98/Laboratorio-N8/blob/main/Imagenes/mt1.PNG)
 
+![mt2](https://github.com/AlexMP98/Laboratorio-N8/blob/main/Imagenes/mt2.PNG)
 
 **3. EXPLICACIÓN DEL PROCEDIMIENTO**
 
@@ -80,7 +89,9 @@ d
 
 **6. CONCLUSIONES**
 
+-Tener la informacion de ondas senoidales nos ayuda como medida de la distribucion de amplitudes de cada frecuencia
 
+-Con combinaciones de señales senoidales de diferentes amplitudes y frecuencias se puede reconstruir cualquier forma de onda
 
 **7. BIBLIOGRAFÍA**
 
