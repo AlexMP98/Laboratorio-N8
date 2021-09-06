@@ -10,11 +10,11 @@ _Objetivo General_
 
 _Objetivos Específicos_
 
--
+-Comprender como funciona el concepto de Generador de señales y sus aplicaciones.
 
--
+-Analizar la onda senoidal y su relacion con las demas ondas.
 
--
+-Interpretar las diferentes graficas de ondas senoidales a diferentes amplitudes y frecuencias.
 
 
 **2. MARCO TEÓRICO**
