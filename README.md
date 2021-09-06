@@ -58,16 +58,16 @@ Implementaremos el siguiente circuito en el simulador Dcaclab.
 a     
 
 4.2 ¿En qué valor está posicionada la perilla VOLTS/DIV?     
-E     
+En el valor 3     
 
 4.3 ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?      
 a     
 
 4.4 ¿En qué valor está posicionada la perilla TIME/DIV?     
-E     
+En el valor de 0,1m     
 
 4.5 ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?     
-Amplitud de voltaje:     (v)      
+Amplitud de voltaje:    6,86 (v)      
 Periodo:       (s)     
 
 4.6 Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.      
@@ -75,10 +75,10 @@ f:    (Hz)
 w:    (rad/s)     
 
 4.7 Con el multímetro digital mida el voltaje de salida en RL:   
-d   
+Voltaje en RL= 4.84 V   
 
 4.8 Compare el voltaje medido en el punto 4.5 y el obtenido en el punto 4.7. ¿Coinciden? ¿Por qué?
-
+El voltaje obtenido en el punto 4.5 es de 6,86 V mientras que en el punto 4.7 tiene un valor de 4,84 V por lo que no coinciden porque el valor del punto 4.5 es el valor del voltaje pico obtenido del osciloscopio mientras que el valor de punto 4.7 es el valor del voltaje rms obtenido por el multímetro.
 
 
 
