@@ -12,10 +12,9 @@ _Objetivos Específicos_
 
 -Comprender como funciona el concepto de Generador de señales y sus aplicaciones.
 
--Analizar la onda senoidal y su relacion con las demas ondas.
+-Indagar la onda senoidal y su relacion con las demas ondas.
 
 -Interpretar las diferentes graficas de ondas senoidales a diferentes amplitudes y frecuencias.
-
 
 **2. MARCO TEÓRICO**
 
@@ -89,9 +88,11 @@ d
 
 **6. CONCLUSIONES**
 
--Tener la informacion de ondas senoidales nos ayuda como medida de la distribucion de amplitudes de cada frecuencia
+-Tener la informacion de ondas senoidales nos ayuda como medida de la distribucion de amplitudes de cada frecuencia.
 
--Con combinaciones de señales senoidales de diferentes amplitudes y frecuencias se puede reconstruir cualquier forma de onda
+-Con combinaciones de señales senoidales de diferentes amplitudes y frecuencias se puede reconstruir cualquier forma de onda.
+
+-Dos ondas sinusoidales están en fase cuando su frecuencia y su fase son las mismas por lo que si la fase difiere, entonces están en desfase. 
 
 **7. BIBLIOGRAFÍA**
 
