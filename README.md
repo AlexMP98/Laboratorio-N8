@@ -82,7 +82,8 @@ El voltaje obtenido en el punto 4.5 es de 6,86 V mientras que en el punto 4.7 ti
 
 
 
-**5. VIDEO**
+**5. VIDEO**       
+Link del video: https://youtu.be/ex_lm146Xnk
 
 
 
