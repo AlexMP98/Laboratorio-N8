@@ -55,13 +55,13 @@ Implementaremos el siguiente circuito en el simulador Dcaclab.
 
 **4. RESPUESTAS A INTERROGANTES Y CALCULO DE ERROR**   
 4.1 ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?     
-a     
+Abarca 2 divisiones por cuadro     
 
 4.2 ¿En qué valor está posicionada la perilla VOLTS/DIV?     
 En el valor 3     
 
-4.3 ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?      
-a     
+4.3 ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?        
+Abarca 4 divisiones por cuadro
 
 4.4 ¿En qué valor está posicionada la perilla TIME/DIV?     
 En el valor de 0,1m     
