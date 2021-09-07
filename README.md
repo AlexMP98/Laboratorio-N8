@@ -68,11 +68,11 @@ En el valor de 0,1m
 
 4.5 ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?     
 Amplitud de voltaje:    6,86 (v)      
-Periodo:       (s)     
+Periodo:    4 ms     
 
 4.6 Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.      
-f:    (Hz)     
-w:    (rad/s)     
+f:  1/T  = 1/ (1x10^-3)  = 250  (Hz)     
+w:  (2PI)(f)=(2PI)(250)= 500PI  (rad/s)     
 
 4.7 Con el multímetro digital mida el voltaje de salida en RL:   
 Voltaje en RL= 4.84 V   
